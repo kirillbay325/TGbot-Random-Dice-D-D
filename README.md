@@ -476,26 +476,5 @@ Wenn Sie dieses Projekt nützlich finden:
 
 ```
 
----
 
-## ✅ Как использовать:
-
-1. **Создай файл** в папке `TGBot`:  
-   → Имя: `README.md`  
-   → Тип: `Markdown File`
-
-2. **Скопируй весь текст выше** — **от `# TGbot Random Dice D&D` до последней строки**.
-
-3. **Вставь его** в файл `README.md`.
-
-4. Сохрани файл.
-
-5. В терминале:
-   ```bash
-   git add README.md
-   git commit -m "docs: add full multilingual README (ru, en, fr, de)"
-   git push origin main
-   ```
-
----
 
