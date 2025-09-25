@@ -1,0 +1,27 @@
+{
+  "name": "TGbot Random Dice D-D",
+  "version": "1.0.0",
+  "description": "🎲 Telegram bot for D&D dice rolls — works with /roll5d6 in groups, 4 languages, no spaces needed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "dnd",
+    "dice",
+    "rpg",
+    "roll",
+    "5d6",
+    "multilanguage",
+    "group-bot",
+    "no-space"
+  ],
+  "author": "Kirill Bay (kirillbay325)",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.71.0"
+  }
+}
