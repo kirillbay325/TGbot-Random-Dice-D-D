@@ -102,12 +102,10 @@ node index.js
 
 ### 💬 Поддержка и участие
 
-Этот бот был создан как личный инструмент — но открыт, потому что **D&D заслуживает лучшие инструменты**.
-
 Если вы находите этот проект полезным:
-- ✅ **Поставьте звезду** — это поможет другим найти его  
-- ✅ **Сообщите об ошибках** — если что-то работает не так  
-- ✅ **Поделитесь** с вашей группой
+-  **Поставьте звезду** — это поможет другим найти его  
+-  **Сообщите об ошибках** — если что-то работает не так  
+-  **Поделитесь** с вашей группой
 
 > Проект не монетизируется.  
 > Нет рекламы. Нет трекеров. Нет платных функций.  
@@ -216,12 +214,11 @@ node index.js
 
 ### 💬 Support & Contribution
 
-This bot was built as a personal tool — but it’s open-sourced because **D&D deserves better tools**.
 
 If you find this project useful:
-- ✅ **Star this repository** — it helps others discover it
-- ✅ **Report issues** — if something doesn’t work as expected
-- ✅ **Share it** with your RPG group
+-  **Star this repository** — it helps others discover it
+-  **Report issues** — if something doesn’t work as expected
+-  **Share it** with your RPG group
 
 > This project is not monetized.  
 > No ads. No tracking. No premium features.  
@@ -332,12 +329,11 @@ node index.js
 
 ### 💬 Support et contribution
 
-Ce bot a été créé comme outil personnel — mais il est open-source, car **D&D mérite de meilleurs outils**.
 
 Si vous trouvez ce projet utile :
-- ✅ **Étoilez ce dépôt** — cela aide les autres à le découvrir  
-- ✅ **Signalez les bugs** — si quelque chose ne fonctionne pas comme prévu  
-- ✅ **Partagez-le** avec votre groupe de jeu
+-  **Étoilez ce dépôt** — cela aide les autres à le découvrir  
+-  **Signalez les bugs** — si quelque chose ne fonctionne pas comme prévu  
+-  **Partagez-le** avec votre groupe de jeu
 
 > Ce projet n’est pas monétisé.  
 > Pas de publicité. Pas de suivi. Pas de fonctionnalités premium.  
@@ -448,12 +444,10 @@ node index.js
 
 ### 💬 Unterstützung und Mitwirkung
 
-Dieser Bot wurde als persönliches Werkzeug erstellt — aber als Open-Source veröffentlicht, weil **D&D bessere Werkzeuge verdient**.
-
 Wenn Sie dieses Projekt nützlich finden:
-- ✅ **Sterne vergeben** — hilft anderen, es zu entdecken  
-- ✅ **Fehler melden** — wenn etwas nicht wie erwartet funktioniert  
-- ✅ **Teilen** mit Ihrer RPG-Gruppe
+-  **Sterne vergeben** — hilft anderen, es zu entdecken  
+-  **Fehler melden** — wenn etwas nicht wie erwartet funktioniert  
+-  **Teilen** mit Ihrer RPG-Gruppe
 
 
 ```
