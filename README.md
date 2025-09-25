@@ -1,23 +1,5 @@
 # TGbot-Random-Dice-D&D
 
-
-
----
-
-
-# TGbot Random Dice D&D  
-### A Professional Telegram Bot for D&D Dice Rolling
-
-> **Roll dice in groups without spaces. Fully local. Multi-language. Zero dependencies.**  
->  
-> *A lightweight, reliable tool for tabletop RPG players — built for real use cases.*
-
-[![GitHub stars](https://img.shields.io/github/stars/kirillbay325/TGbot-Random-Dice-D-D?style=social&label=Stars)](https://github.com/kirillbay325/TGbot-Random-Dice-D-D/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?logo=node.js&logoColor=white)](https://nodejs.org)
-
----
-
 ## 🇷🇺 Русская версия / Russian Version
 
 ### 🎯 Обзор
