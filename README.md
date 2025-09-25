@@ -1,1 +1,1 @@
-# TGbot-Random-Dice-D-D
+# TGbot-Random-Dice-D&D
